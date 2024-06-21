@@ -1,11 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
 <p align="center">
-  <img src="images/unreal.png" alt="Welcome" width="50" height="50">
-</p>
-
-
-<p align="center">
   <img src="images/scifi_room.gif" alt="Welcome">
 </p>
 
@@ -18,11 +13,11 @@
 
 <br>
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Life Motive</h2>
 
-- **Project 1:** Description of project 1.
-- **Project 2:** Description of project 2.
-- ...
+- m epanouir dans le monde et continuer a evoluer dans le mode de l it
+- rejoindre l ecole 42
+- traviller soit dans le devlopement aplication ou machine learning
 
 <h2 align="center">Learning</h2>
 
@@ -33,9 +28,9 @@
 
 <h2 align="center">Skills</h2>
 
+### Tools
 <img src="images/unreal.png" alt="Unreal Engine Logo" width="100" height="100">
 <img src="images/arduino.png" alt="Unreal Engine Logo" width="100" height="100">
-- Flipper Zero <img src="path_to_your_flipper_image.png" alt="Flipper Zero Logo" width="20" height="20">
 
 <h2 align="center">Experience and Education</h2>
 
@@ -44,8 +39,5 @@
 
 <h2 align="center">Social Media and Contact</h2>
 
-- LinkedIn: [Your LinkedIn Profile](link_to_your_profile)
+- Discord: [Your LinkedIn Profile](link_to_your_profile)
 - Email: your@email.com
-
-<h3 align="left">Languages and Tools:</h3>
-
