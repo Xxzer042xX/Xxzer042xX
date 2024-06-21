@@ -1,20 +1,10 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
-<br><br><br><br> <!-- Four line breaks for larger space -->
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg" alt="Windows" width="50" height="50">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50">
-</p>
-
-
+<br><br><br>
 
 ![Bienvenue](images/scifi_room.gif)
 
-<h1 align="center">👋 About Me</h1>
+<h1 align="center"> About Me</h1>
 
 I am a passionate computer science student, currently a candidate at 42 School. I am learning C language and enjoy tackling programming challenges.
 
