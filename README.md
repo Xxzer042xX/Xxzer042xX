@@ -2,74 +2,72 @@
 
 ![Bienvenue](images/scifi_room.gif)
 
-## 👋 À propos de moi
+## 👋 About Me
 
-Je suis un étudiant passionné par le développement informatique, actuellement candidat à 42 School. Je m'initie au langage C et j'adore relever des défis de programmation.
+I am a passionate computer science student, currently a candidate at 42 School. I am learning C language and enjoy tackling programming challenges.
 
 ![Coding](https://media.giphy.com/media/l4EoMwbqG1VCmAvp6/giphy.gif)
 
-## 🌱 En cours d'apprentissage
+## 🌱 Learning
 
-- Langage C
-- Concepts de base en informatique
-- Algorithmes et structures de données
+- C language
+- Basic computer concepts
+- Algorithms and data structures
 
-## 🚀 Projets
+## 🚀 Projects
 
-### Projet 1 : Hello World en C
+### Project 1: Hello World in C
 
-```c
-#include <stdio.h>
+This is a simple "Hello, World!" program written in C.
 
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
-```
-### Projet 2 : Calculatrice en C
+### Project 2: Calculator in C
 
-Une calculatrice simple en langage C. Vous pouvez tester la version en ligne ici :
+A simple calculator implemented in C. You can try the online version here:
 
-[![Calculatrice C](https://example.com/calculatrice-screenshot.png)](https://votre-utilisateur.github.io/calculatrice)
+[![C Calculator](https://example.com/calculator-screenshot.png)](https://your-username.github.io/calculator)
 
 ---
 
-## Ajouts supplémentaires
+## Additional Additions
 
-### GIF Amusant
+### Fun GIF
 
-![GIF Amusant](https://media.giphy.com/media/YOUR-GIF-URL/giphy.gif)
+Here's a fun animated GIF:
 
-### Technologies maîtrisées
+![Fun GIF](https://media.giphy.com/media/YOUR-GIF-URL/giphy.gif)
 
-- **Langages de programmation**: C, Python, HTML/CSS, JavaScript
+### Technologies I'm Proficient In
+
+- **Programming Languages**: C, Python, HTML/CSS, JavaScript
 - **Frameworks**: Flask, Bootstrap
-- **Outils de développement**: Git, Visual Studio Code, Docker
+- **Development Tools**: Git, Visual Studio Code, Docker
 
-### Contributions Open Source
+### Open Source Contributions
 
-J'ai contribué à plusieurs projets Open Source, notamment en proposant des correctifs et en améliorant la documentation.
+I have contributed to several open source projects by providing fixes and improving documentation.
 
-### Projets Personnels
+### Personal Projects
 
-#### Portfolio Web
+#### Web Portfolio
 
-Un portfolio personnel développé en HTML, CSS et JavaScript pour présenter mes projets.
+A personal portfolio developed in HTML, CSS, and JavaScript to showcase my projects.
 
-[![Portfolio Web](https://example.com/portfolio-screenshot.png)](https://votre-utilisateur.github.io/portfolio)
+[![Web Portfolio](https://example.com/portfolio-screenshot.png)](https://your-username.github.io/portfolio)
 
-#### Jeu en Python
+#### Python Game
 
-Un jeu simple développé en Python. Vous pouvez le tester en ligne ou voir le code sur GitHub.
+A simple game developed in Python. You can try it online or view the code on GitHub.
 
-[![Jeu en Python](https://example.com/jeu-screenshot.png)](https://github.com/votre-utilisateur/jeu-python)
+[![Python Game](https://example.com/game-screenshot.png)](https://github.com/your-username/game-python)
 
 ### Badges
 
-![GitHub followers](https://img.shields.io/github/followers/votre-utilisateur?style=social)
-![GitHub stars](https://img.shields.io/github/stars/votre-utilisateur/projet?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/votre-utilisateur/projet)
+Here are some badges:
+
+![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+![GitHub stars](https://img.shields.io/github/stars/your-username/project?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/project)
 
 ### Contact
 
-Pour me contacter ou en savoir plus sur mes projets, n'hésitez pas à visiter mon [profil GitHub](https://github.com/votre-utilisateur) ou à m'envoyer un email à votre@email.com.
+To get in touch with me or learn more about my projects, feel free to visit my [GitHub profile](https://github.com/your-username) or email me at your@email.com.
