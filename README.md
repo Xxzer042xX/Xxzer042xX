@@ -18,7 +18,7 @@
 
 <p align="center">
   <b>Explore the innovative approach to education at Ecole 42 and join a global community of passionate learners.</b><br><br>
-  <a href="https://www.42.fr/" target="_blank"><img src="images/ecole42_logo.png" alt="Ecole 42 Logo" width="200"></a>
+  <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
 </p>
 
 <br>
