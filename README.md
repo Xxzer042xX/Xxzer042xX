@@ -1,8 +1,12 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
+<br>
+
 <p align="center">
   <img src="images/scifi_room.gif" alt="Bienvenue">
 </p>
+
+<br><br><br>
 
 <p align="center">
   <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 37, after working as an automotive mechanic for over 15 years, I've decided to pivot into the field of IT. Currently, I'm gearing up to join Ecole 42 in Lausanne, Switzerland.</b><br><br>
@@ -16,9 +20,11 @@
 
 <h2 align="center">Join Ecole 42:</h2>
 
+<br><br><br>
+
 <p align="center">
   <b>Explore the innovative approach to education at Ecole 42 and join a global community of passionate learners.</b><br><br>
-  <i>* Please note that this is not an official representation of Ecole 42 but a personal recommendation.</i><br><br>
+  <i>* Please note that this is not an official representation of Ecole 42 but a personal recommendation.</i><br><br><br><br>
   <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
 </p>
 
@@ -51,6 +57,8 @@
 <br><br><br>
 
 <h2 align="center">Experience and Education:</h2>
+
+<br><br><br>
 
 ### Education 
   - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
