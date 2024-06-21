@@ -14,16 +14,18 @@
 
 <br>
 
-<h2 align="center">Join Ecole 42</h2>
+<h2 align="center">Join Ecole 42:</h2>
 
 <p align="center">
   <b>Explore the innovative approach to education at Ecole 42 and join a global community of passionate learners.</b><br><br>
+  <i>* Please note that this is not an official representation of Ecole 42 but a personal recommendation.</i><br><br>
   <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
 </p>
 
+
 <br>
 
-<h2 align="center">Skills and Learning</h2>
+<h2 align="center">Skills and Learning:</h2>
 
 ### Languages
 - C <img src="path_to_your_c_image.png" alt="C Logo" width="20" height="20">
