@@ -21,25 +21,21 @@
 
 <h2 align="center">Compétences Techniques</h2>
 
-- Langages : C, C++, Shell Unix
-- Technologies : Unreal Engine, Arduino, Flipper Zero
+### Langages
+- C <img src="chemin_vers_votre_image_c.png" alt="Logo C" width="20" height="20">
+- C++ <img src="chemin_vers_votre_image_cpp.png" alt="Logo C++" width="20" height="20">
+- Shell Unix <img src="chemin_vers_votre_image_shell.png" alt="Logo Shell Unix" width="20" height="20">
 
-<h2 align="center">Contributions Open Source</h2>
+### Technologies
+- Unreal Engine <img src="chemin_vers_votre_image_unreal.png" alt="Logo Unreal Engine" width="20" height="20">
+- Arduino <img src="chemin_vers_votre_image_arduino.png" alt="Logo Arduino" width="20" height="20">
+- Flipper Zero <img src="chemin_vers_votre_image_flipper.png" alt="Logo Flipper Zero" width="20" height="20">
 
-- Contribution 1 : Description de la contribution 1.
-- Contribution 2 : Description de la contribution 2.
-- ...
 
 <h2 align="center">Expérience et Éducation</h2>
 
 - **Éducation :** Votre parcours académique.
 - **Expérience professionnelle :** Vos expériences pertinentes.
-
-<h2 align="center">Articles Techniques</h2>
-
-- [Titre de l'article 1](lien_vers_l'article_1) : Description de l'article 1.
-- [Titre de l'article 2](lien_vers_l'article_2) : Description de l'article 2.
-- ...
 
 <h2 align="center">Réseaux Sociaux et Contact</h2>
 
