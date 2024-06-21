@@ -4,6 +4,8 @@
 
 ![Bienvenue](images/scifi_room.gif)
 
+<br>
+
 <h1 align="center"> About Me</h1>
 
 <p align="center">
