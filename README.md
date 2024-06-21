@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
+<br><br><br><br> <!-- Four line breaks for larger space -->
+
 ![Bienvenue](images/scifi_room.gif)
 
 ## 👋 About Me
