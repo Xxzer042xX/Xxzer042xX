@@ -28,21 +28,22 @@
 <h2 align="center">Skills and Learning:</h2>
 
 ### Languages
-- C <img src="path_to_your_c_image.png" alt="C Logo" width="20" height="20">
-- C++ <img src="path_to_your_cpp_image.png" alt="C++ Logo" width="20" height="20">
-- Unix Shell <img src="path_to_your_shell_image.png" alt="Unix Shell Logo" width="20" height="20">
+<img src="images/c.png" alt="C Logo" width="80" height="80">
+<img src="images/cpp.png" alt="C Logo" width="80" height="80">
+<img src="images/bash.png" alt="C Logo" width="80" height="80">
 
 ### Tools
-- Unreal Engine <img src="images/unreal.png" alt="Unreal Engine Logo" width="100" height="100">
-- Arduino <img src="images/arduino.png" alt="Arduino Logo" width="100" height="100">
+<img src="images/vim.png" alt="C Logo" width="80" height="80">
+<img src="images/vscode.png" alt="C Logo" width="80" height="80">
+<img src="images/visual.png" alt="C Logo" width="80" height="80">
+<img src="images/terminal.png" alt="C Logo" width="80" height="80">
+<img src="images/unreal.png" alt="C Logo" width="80" height="80">
 
-<h2 align="center">Experience and Education</h2>
+<h2 align="center">Experience and Education:</h2>
 
-- **Education:** Your academic background.
-- **Professional Experience:** Your relevant experiences.
+### Education 
+  - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
 
-<h2 align="center">Social Media and Contact</h2>
-
-- Discord: [Your Discord Handle]
-- LinkedIn: [Your LinkedIn Profile](link_to_your_profile)
-- Email: your@email.com
+### Professional Experience: 
+  - Over 10 years of experience as an automotive mechanic
+  - Currently transitioning into the field of IT and preparing to join Ecole 42 in Lausanne, Switzerland
