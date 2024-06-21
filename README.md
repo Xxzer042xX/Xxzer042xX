@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub!
+<h1 align="center">Welcome to my GitHub profile!</h1>
 
 ![Bienvenue](images/scifi_room.gif)
 
