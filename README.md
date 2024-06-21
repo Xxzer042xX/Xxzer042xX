@@ -42,6 +42,3 @@
 - LinkedIn: [Your LinkedIn Profile](link_to_your_profile)
 - Email: your@email.com
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true" alt="GitHub Stats">
-</p>
