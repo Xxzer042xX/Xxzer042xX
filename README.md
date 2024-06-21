@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
-<br><br><br>
+<br><br>
 
 ![Bienvenue](images/scifi_room.gif)
 
