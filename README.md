@@ -12,7 +12,7 @@
   <b>💬 Feel free to reach out to me for discussions on exciting collaborations, exchanging ideas about video games and IT, or simply sharing a common passion!</b>
 </p>
 
-<br>
+<br><br><br>
 
 <h2 align="center">Join Ecole 42:</h2>
 
@@ -22,7 +22,7 @@
   <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
 </p>
 
-<br>
+<br><br><br>
 
 <h2 align="center">Languages:</h2>
 
