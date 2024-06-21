@@ -1,16 +1,27 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub!
 
-<!--
-**Xxzer042xX/Xxzer042xX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Bienvenue](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-Here are some ideas to get you started:
+## 👋 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis un étudiant passionné par le développement informatique, actuellement candidat à 42 School. Je m'initie au langage C et j'adore relever des défis de programmation.
+
+![Coding](https://media.giphy.com/media/l4EoMwbqG1VCmAvp6/giphy.gif)
+
+## 🌱 En cours d'apprentissage
+
+- Langage C
+- Concepts de base en informatique
+- Algorithmes et structures de données
+
+## 🚀 Projets
+
+### Projet 1 : Hello World en C
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
