@@ -30,7 +30,7 @@
 
 <br><br><br>
 
-<h2 align="center">Languages:</h2>
+<h2 align="center">Learning Languages:</h2>
 
 <br><br><br>
 
@@ -42,7 +42,7 @@
 
 <br><br><br>
 
-<h2 align="center">Tools:</h2>
+<h2 align="center">Mastered Tools:</h2>
 
 <br><br><br>
 
