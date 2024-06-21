@@ -1,7 +1,6 @@
 # Bienvenue sur mon profil GitHub!
 
-![Bienvenue]([https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://giphy.com/embed/l3978y5HqiEtqupiM
-)
+![Bienvenue](https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif)
 
 ## 👋 À propos de moi
 
