@@ -25,7 +25,7 @@ int main() {
     printf("Hello, World!\n");
     return 0;
 }
-
+```
 ### Projet 2 : Calculatrice en C
 
 Une calculatrice simple en langage C. Vous pouvez tester la version en ligne ici :
