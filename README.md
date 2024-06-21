@@ -17,7 +17,7 @@
 
 <br>
 
-## 🌱 Learning
+<h1 align="center"> 🌱 Learning</h1>
 
 - C language
 - Basic computer concepts
