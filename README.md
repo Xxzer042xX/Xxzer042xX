@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
 <br><br><br><br> <!-- Four line breaks for larger space -->
-[![Custom Badge](https://img.shields.io/badge/Custom-Badge-purple)](https://example.com)
 
 
 ![Bienvenue](images/scifi_room.gif)
