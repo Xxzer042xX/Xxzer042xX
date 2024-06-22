@@ -140,3 +140,19 @@
   <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/yourprofile">🐦 Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<!--
+ /************************************************************\
+ *                                                            *
+ *    Welcome to my project! If you're reading this, I        *
+ *    invite you to contribute to this codebase. I've         *
+ *    done my best to keep everything clean and organized,    *
+ *    even without prior knowledge. If you spot areas that    *
+ *    can be improved or corrected, please feel free to       *
+ *    make your changes and submit a pull request. Your       *
+ *    contributions are greatly appreciated!                  *
+ *                                                            *
+ \************************************************************/
+-->
+
+
