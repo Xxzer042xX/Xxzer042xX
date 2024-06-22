@@ -159,7 +159,8 @@
  *    even without prior knowledge. If you spot areas that    *
  *    can be improved or corrected, please feel free to       *
  *    make your changes and submit a pull request. Your       *
- *    contributions are greatly appreciated!  o7              *
+ *    contributions are greatly appreciated!                  *
+ *                                                 o7         *
  *                                                            *
  \************************************************************/
 -->
