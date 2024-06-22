@@ -75,8 +75,6 @@
 
 <p align="center">🎮 Game Development Projects
   <a href=>Project 1(#)</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/yourprofile">🐦 Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
