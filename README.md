@@ -74,33 +74,39 @@
 <br><br>
 
 <div align="center">
-  <table width="80%">
+  <table style="width: 100%;">
     <tr>
-      <td align="center" width="45%">
+      <td align="center" style="width: 33.33%;">
         🎮 <b>Game Development Projects</b>
       </td>
-      <td width="10%">
-        <!-- Empty cell for spacing -->
+      <td align="center" style="width: 33.33%;">
+        🎓 <b>42 Cursus</b>
       </td>
-      <td align="center" width="45%">
+      <td align="center" style="width: 33.33%;">
         💻 <b>Software Development Projects</b>
       </td>
     </tr>
     <tr>
-      <td valign="top" align="left" width="45%">
-        - **Project 1:** Description and [GitHub Link](#)<br>
-        - **Project 2:** Description and [GitHub Link](#)
+      <td valign="top" align="left" style="width: 33.33%;">
+        <br> <!-- Ajoute un espace avant la première description -->
+        - Description and [GitHub Link]<br>
+        - Description and [GitHub Link]
       </td>
-      <td width="10%">
-        <!-- Empty cell for spacing -->
+      <td valign="top" align="left" style="width: 33.33%;">
+        <br> <!-- Ajoute un espace avant la première description -->
+        - Description and [GitHub Link]<br>
+        - Description and [GitHub Link]
       </td>
-      <td valign="top" align="left" width="45%">
-        - **Project 1:** Description and [GitHub Link](#)<br>
-        - **Project 2:** Description and [GitHub Link](#)
+      <td valign="top" align="left" style="width: 33.33%;">
+        <br> <!-- Ajoute un espace avant la première description -->
+        - Description and [GitHub Link]<br>
+        - Description and [GitHub Link]
       </td>
     </tr>
   </table>
 </div>
+
+
 
 
 <h2 align="center">📞 Contact Me:</h2>
