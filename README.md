@@ -67,3 +67,27 @@
   - Over 15 years of experience as an automotive mechanic
   - Currently transitioning into the field of IT and preparing to join Ecole 42 in Lausanne, Switzerland
 
+<br><br><br>
+
+<h2 align="center">📂 Featured Projects:</h2>
+
+<br><br><br>
+
+### 🚀 Game Development Projects
+  - **Project 1:** Description and [GitHub Link](#)
+  - **Project 2:** Description and [GitHub Link](#)
+
+### 💻 Software Development Projects
+  - **Project 1:** Description and [GitHub Link](#)
+  - **Project 2:** Description and [GitHub Link](#)
+
+<br><br><br>
+
+<h2 align="center">📞 Contact Me:</h2>
+
+<br><br><br>
+
+<p align="center">
+  <a href="mailto:your-email@example.com">📧 Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>
+</p>
