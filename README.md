@@ -1,12 +1,19 @@
-<!-- Main title centered -->
+<!--
+  This section contains the main title of the page.
+  The title is centered using the "align" attribute.
+  It's followed by a horizontal line for visual separation.
+-->
 <h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
 <hr>
 
-<!-- Table with sections for different types of projects -->
+<!--
+  The following table organizes the different types of projects.
+  Each cell represents a category: Game Development, 42 Cursus, and Software Development.
+  Inside each cell, there are links to specific projects.
+-->
 <div align="center">
   <table style="width: 100%;">
     <tr>
-      <!-- Column for game development projects -->
       <td align="center" style="width: 33.33%;">
         🎮 <b>Game Development</b>
         <ul>
@@ -14,7 +21,6 @@
           <li><a href="https://github.com/yourusername/game-project-2">Game Project 2</a></li>
         </ul>
       </td>
-      <!-- Column for 42 cursus and swimming pool projects -->
       <td align="center" style="width: 33.33%;">
         🎓 <b>42 Cursus and swimming pool</b>
         <ul>
@@ -22,7 +28,6 @@
           <li><a href="https://github.com/yourusername/42-cursus-project-2">42 Cursus Project 2</a></li>
         </ul>
       </td>
-      <!-- Column for software development projects -->
       <td align="center" style="width: 33.33%;">
         💻 <b>Software Development</b>
         <ul>
@@ -34,16 +39,17 @@
   </table>
 </div>
 
-<br>
-
-<!-- Centered image -->
+<!--
+  This section displays a centered image with an alt text for accessibility.
+-->
 <p align="center">
   <img src="images/scifi_room.gif" alt="Welcome to my GitHub profile!">
 </p>
 
-<br>
-
-<!-- Personal introduction paragraph centered -->
+<!--
+  The following paragraph provides a personal introduction.
+  It's split into several lines for readability and centered on the page.
+-->
 <p align="center">
   <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 37, after working as an automotive mechanic for over 15 years, I've decided to pivot into the field of IT. Currently, I'm gearing up to join School 42 in Lausanne, Switzerland.</b>
   <br><br><br>
@@ -56,15 +62,12 @@
   <b>💬 Feel free to reach out to me for discussions on exciting collaborations, exchanging ideas about video games and IT, or simply sharing a common passion!</b>
 </p>
 
-<br><br>
-
-<!-- Section to join School 42 -->
+<!--
+  The following section provides a link to School 42.
+  It includes a personal recommendation and a logo with a link.
+-->
 <h1 align="center">🎓 Join School 42 :</h1>
 <hr>
-
-<br>
-
-<!-- Paragraph with a personal recommendation for School 42 -->
 <p align="center">
   <b>Explore the innovative approach to education at School 42 and join a global community of passionate learners.</b><br><br>
   <i>* Please note that this is not an official representation of School 42 but a personal recommendation.</i>
@@ -72,30 +75,24 @@
   <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
 </p>
 
-<br><br>
-
-<!-- Section for programming languages -->
+<!--
+  The following section displays the programming languages being learned.
+  It includes centered images of language logos.
+-->
 <h1 align="center">📚 Learning Languages :</h1>
 <hr>
-
-<br><br>
-
-<!-- Centered icons of programming languages -->
 <p align="center">
   <img src="images/c.png" alt="C Programming Language Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/cpp.png" alt="C++ Programming Language Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/bash.png" alt="Bash Shell Logo" width="80" height="80">
 </p>
 
-<br><br>
-
-<!-- Section for tools explored -->
+<!--
+  The following section displays the tools being explored.
+  It includes centered images of tool logos.
+-->
 <h1 align="center">🛠️ Tools I'm Exploring :</h1>
 <hr>
-
-<br><br>
-
-<!-- Centered icons of explored tools -->
 <p align="center">
   <img src="images/vim.png" alt="Vim Editor Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/vscode.png" alt="Visual Studio Code Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -104,38 +101,28 @@
   <img src="images/unreal.png" alt="Unreal Engine Logo" width="80" height="80">
 </p>
 
-<br><br>
-
-<!-- Section for experience and education -->
+<!--
+  The following section displays experience and education details.
+  It includes centered text about educational background and professional experience.
+-->
 <h1 align="center">📜 Experience and Education :</h1>
 <hr>
-
-<br>
-
-<!-- Centered details on education -->
 <p align="center">
   <b>🎓 Education :</b><br>
   - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
 </p>
-
-<br>
-
-<!-- Centered details on professional experience -->
 <p align="center">
   <b>💼 Professional Experience:</b><br>
   - Over 15 years of experience as an automotive mechanic<br>
   - Currently transitioning into the field of IT and preparing to join Ecole 42 in Lausanne, Switzerland
 </p>
 
-<br><br>
-
-<!-- Section for contacts -->
+<!--
+  The following section contains contact links.
+  It includes centered links for email, LinkedIn, and Twitter.
+-->
 <h1 align="center">📞 Contact Me :</h1>
 <hr>
-
-<br>
-
-<!-- Centered contact links -->
 <p align="center">
   <a href="mailto:your-email@example.com">📧 Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
