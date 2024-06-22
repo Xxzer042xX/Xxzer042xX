@@ -102,20 +102,25 @@
 
 <br>
 
-### 🎓 Education 
+<p align="center">
+  <b>🎓 Education :</b><br>
   - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
+</p>
 
-### 💼 Professional Experience: 
-  - Over 15 years of experience as an automotive mechanic
+<br>
+
+<p align="center">
+  <b>💼 Professional Experience:</b><br>
+  - Over 15 years of experience as an automotive mechanic<br>
   - Currently transitioning into the field of IT and preparing to join Ecole 42 in Lausanne, Switzerland
+</p>
 
 <br><br>
 
 <h1 align="center">📞 Contact Me :</h1>
 <hr>
 
-<br><br>
-
+<br>
 <p align="center">
   <a href="mailto:your-email@example.com">📧 Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
