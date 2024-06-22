@@ -1,12 +1,12 @@
-<!-- Titre principal aligné au centre -->
+<!-- Main title centered -->
 <h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
 <hr>
 
-<!-- Tableau avec des sections pour les différents types de projets -->
+<!-- Table with sections for different types of projects -->
 <div align="center">
   <table style="width: 100%;">
     <tr>
-      <!-- Colonne pour les projets de développement de jeux -->
+      <!-- Column for game development projects -->
       <td align="center" style="width: 33.33%;">
         🎮 <b>Game Development</b>
         <ul>
@@ -14,7 +14,7 @@
           <li><a href="https://github.com/yourusername/game-project-2">Game Project 2</a></li>
         </ul>
       </td>
-      <!-- Colonne pour les projets du cursus 42 et piscine -->
+      <!-- Column for 42 cursus and swimming pool projects -->
       <td align="center" style="width: 33.33%;">
         🎓 <b>42 Cursus and swimming pool</b>
         <ul>
@@ -22,7 +22,7 @@
           <li><a href="https://github.com/yourusername/42-cursus-project-2">42 Cursus Project 2</a></li>
         </ul>
       </td>
-      <!-- Colonne pour les projets de développement logiciel -->
+      <!-- Column for software development projects -->
       <td align="center" style="width: 33.33%;">
         💻 <b>Software Development</b>
         <ul>
@@ -36,14 +36,14 @@
 
 <br>
 
-<!-- Image centrée -->
+<!-- Centered image -->
 <p align="center">
   <img src="images/scifi_room.gif" alt="Welcome to my GitHub profile!">
 </p>
 
 <br>
 
-<!-- Paragraphe de présentation personnel aligné au centre -->
+<!-- Personal introduction paragraph centered -->
 <p align="center">
   <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 37, after working as an automotive mechanic for over 15 years, I've decided to pivot into the field of IT. Currently, I'm gearing up to join School 42 in Lausanne, Switzerland.</b>
   <br><br><br>
@@ -58,13 +58,13 @@
 
 <br><br>
 
-<!-- Section pour rejoindre l'école 42 -->
+<!-- Section to join School 42 -->
 <h1 align="center">🎓 Join School 42 :</h1>
 <hr>
 
 <br>
 
-<!-- Paragraphe avec recommandation personnelle pour l'école 42 -->
+<!-- Paragraph with a personal recommendation for School 42 -->
 <p align="center">
   <b>Explore the innovative approach to education at School 42 and join a global community of passionate learners.</b><br><br>
   <i>* Please note that this is not an official representation of School 42 but a personal recommendation.</i>
@@ -74,13 +74,13 @@
 
 <br><br>
 
-<!-- Section pour les langages de programmation -->
+<!-- Section for programming languages -->
 <h1 align="center">📚 Learning Languages :</h1>
 <hr>
 
 <br><br>
 
-<!-- Icônes des langages de programmation centrées -->
+<!-- Centered icons of programming languages -->
 <p align="center">
   <img src="images/c.png" alt="C Programming Language Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/cpp.png" alt="C++ Programming Language Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -89,13 +89,13 @@
 
 <br><br>
 
-<!-- Section pour les outils explorés -->
+<!-- Section for tools explored -->
 <h1 align="center">🛠️ Tools I'm Exploring :</h1>
 <hr>
 
 <br><br>
 
-<!-- Icônes des outils explorés centrées -->
+<!-- Centered icons of explored tools -->
 <p align="center">
   <img src="images/vim.png" alt="Vim Editor Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/vscode.png" alt="Visual Studio Code Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -106,13 +106,13 @@
 
 <br><br>
 
-<!-- Section pour l'expérience et l'éducation -->
+<!-- Section for experience and education -->
 <h1 align="center">📜 Experience and Education :</h1>
 <hr>
 
 <br>
 
-<!-- Détails sur l'éducation centrés -->
+<!-- Centered details on education -->
 <p align="center">
   <b>🎓 Education :</b><br>
   - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
@@ -120,7 +120,7 @@
 
 <br>
 
-<!-- Détails sur l'expérience professionnelle centrés -->
+<!-- Centered details on professional experience -->
 <p align="center">
   <b>💼 Professional Experience:</b><br>
   - Over 15 years of experience as an automotive mechanic<br>
@@ -129,13 +129,15 @@
 
 <br><br>
 
-<!-- Section pour les contacts -->
+<!-- Section for contacts -->
 <h1 align="center">📞 Contact Me :</h1>
 <hr>
 
 <br>
 
-<!-- Liens de contact centrés -->
+<!-- Centered contact links -->
 <p align="center">
   <a href="mailto:your-email@example.com">📧 Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&
+  <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/yourprofile">🐦 Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
