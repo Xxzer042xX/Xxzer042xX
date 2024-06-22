@@ -83,6 +83,7 @@
   It includes a personal recommendation and a logo with a link.
 -->
 
+<br>
 <h1 align="center">🎓 Join School 42 :</h1>
 <hr>
 <p align="center">
@@ -96,7 +97,7 @@
   The following section displays the programming languages being learned.
   It includes centered images of language logos.
 -->
-
+<br>
 <h1 align="center">📚 Learning Languages :</h1>
 <hr>
 <p align="center">
@@ -110,6 +111,7 @@
   It includes centered images of tool logos.
 -->
 
+<br>
 <h1 align="center">🛠️ Tools I'm Exploring :</h1>
 <hr>
 <p align="center">
@@ -125,6 +127,7 @@
   It includes centered text about educational background and professional experience.
 -->
 
+<br>
 <h1 align="center">📜 Experience and Education :</h1>
 <hr>
 <p align="center">
@@ -142,6 +145,7 @@
   It includes centered links for email, LinkedIn, and Twitter.
 -->
 
+<br>
 <h1 align="center">📞 Contact Me :</h1>
 <hr>
 <p align="center">
