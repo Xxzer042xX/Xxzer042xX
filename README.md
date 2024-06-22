@@ -52,7 +52,10 @@
         💻 <b>Software Development</b>
         <ul>
           <li><a href="https://github.com/yourusername/software-project-1">Software Project 1</a></li>
+          <br>
+          <!--
           <li><a href="https://github.com/yourusername/software-project-2">Software Project 2</a></li>
+          -->        
         </ul>
       </td>
     </tr>
