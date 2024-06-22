@@ -139,6 +139,7 @@
   <b>🎓 Education :</b><br>
   - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
 </p>
+<br>
 <p align="center">
   <b>💼 Professional Experience:</b><br>
   - Over 15 years of experience as an automotive mechanic<br>
