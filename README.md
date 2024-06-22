@@ -78,36 +78,29 @@
     <tr>
       <td align="center" style="width: 33.33%;">
         🎮 <b>Game Development</b>
+        <ul>
+          <li><a href="https://github.com/yourusername/game-project-1">Game Project 1</a></li>
+          <li><a href="https://github.com/yourusername/game-project-2">Game Project 2</a></li>
+        </ul>
       </td>
       <td align="center" style="width: 33.33%;">
         🎓 <b>42 Cursus</b>
+        <ul>
+          <li><a href="https://github.com/yourusername/42-cursus-project-1">42 Cursus Project 1</a></li>
+          <li><a href="https://github.com/yourusername/42-cursus-project-2">42 Cursus Project 2</a></li>
+        </ul>
       </td>
       <td align="center" style="width: 33.33%;">
         💻 <b>Software Development</b>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" align="left" style="width: 33.33%;">
-        <br>
-        - Game Project 1: <a href="https://github.com/yourusername/game-project-1">https://github.com/yourusername/game-project-1</a>
-        <br>
-        - Game Project 2: <a href="https://github.com/yourusername/game-project-2">https://github.com/yourusername/game-project-2</a>
-      </td>
-      <td valign="top" align="left" style="width: 33.33%;">
-        <br>
-        - 42 Cursus Project 1: <a href="https://github.com/yourusername/42-cursus-project-1">https://github.com/yourusername/42-cursus-project-1</a>
-        <br>
-        - 42 Cursus Project 2: <a href="https://github.com/yourusername/42-cursus-project-2">https://github.com/yourusername/42-cursus-project-2</a>
-      </td>
-      <td valign="top" align="left" style="width: 33.33%;">
-        <br>
-        - Software Project 1: <a href="https://github.com/yourusername/software-project-1">https://github.com/yourusername/software-project-1</a>
-        <br>
-        - Software Project 2: <a href="https://github.com/yourusername/software-project-2">https://github.com/yourusername/software-project-2</a>
+        <ul>
+          <li><a href="https://github.com/yourusername/software-project-1">Software Project 1</a></li>
+          <li><a href="https://github.com/yourusername/software-project-2">Software Project 2</a></li>
+        </ul>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <br><br><br>
