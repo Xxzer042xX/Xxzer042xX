@@ -38,7 +38,7 @@
       <td align="center" style="width: 33.33%;">
         🎓 <b>42 Cursus and swimming pool</b>
         <ul>
-          <li><a href="https://github.com/yourusername/42-cursus-project-1">42 Cursus Project 1</a></li>
+          <li><a href="https://github.com/yourusername/42-cursus-project-1">42 swimming pool</a></li>
           <li><a href="https://github.com/yourusername/42-cursus-project-2">42 Cursus Project 2</a></li>
         </ul>
       </td>
