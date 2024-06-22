@@ -18,7 +18,7 @@
 
 <br><br><br>
 
-<h2 align="center">🎓 Join Ecole 42:</h2>
+<h2 align="center">🎓 Join School 42:</h2>
 
 <br><br><br>
 
