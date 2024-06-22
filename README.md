@@ -71,22 +71,37 @@
 
 <h2 align="center">📂 Featured Projects:</h2>
 
-<br><br><br>
+<br><br>
 
-<p align="center">🎮 Game Development Projects
-  <a href=>Project 1(#)</a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<div align="center">
+  <table width="80%">
+    <tr>
+      <td align="center" width="45%">
+        🎮 <b>Game Development Projects</b>
+      </td>
+      <td width="10%">
+        <!-- Empty cell for spacing -->
+      </td>
+      <td align="center" width="45%">
+        💻 <b>Software Development Projects</b>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" width="45%">
+        - **Project 1:** Description and [GitHub Link](#)<br>
+        - **Project 2:** Description and [GitHub Link](#)
+      </td>
+      <td width="10%">
+        <!-- Empty cell for spacing -->
+      </td>
+      <td valign="top" align="left" width="45%">
+        - **Project 1:** Description and [GitHub Link](#)<br>
+        - **Project 2:** Description and [GitHub Link](#)
+      </td>
+    </tr>
+  </table>
+</div>
 
-
-### 🎮 Game Development Projects
-
-  - **Project 2:** Description and [GitHub Link](#)
-
-### 💻 Software Development Projects
-  - **Project 1:** Description and [GitHub Link](#)
-  - **Project 2:** Description and [GitHub Link](#)
-
-<br><br><br>
 
 <h2 align="center">📞 Contact Me:</h2>
 
