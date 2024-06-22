@@ -77,37 +77,39 @@
   <table style="width: 100%;">
     <tr>
       <td align="center" style="width: 33.33%;">
-        🎮 <b>Game Development Projects</b>
+        🎮 <b>Game Development</b>
       </td>
       <td align="center" style="width: 33.33%;">
         🎓 <b>42 Cursus</b>
       </td>
       <td align="center" style="width: 33.33%;">
-        💻 <b>Software Development Projects</b>
+        💻 <b>Software Development</b>
       </td>
     </tr>
     <tr>
       <td valign="top" align="left" style="width: 33.33%;">
-        <br> <!-- Ajoute un espace avant la première description -->
-        - Description and [GitHub Link]<br>
+        <br>
+        - Description and [GitHub Link]
+        <br>
         - Description and [GitHub Link]
       </td>
       <td valign="top" align="left" style="width: 33.33%;">
-        <br> <!-- Ajoute un espace avant la première description -->
-        - Description and [GitHub Link]<br>
+        <br>
+        - Description and [GitHub Link]
+        <br>
         - Description and [GitHub Link]
       </td>
       <td valign="top" align="left" style="width: 33.33%;">
-        <br> <!-- Ajoute un espace avant la première description -->
-        - Description and [GitHub Link]<br>
+        <br>
+        - Description and [GitHub Link]
+        <br>
         - Description and [GitHub Link]
       </td>
     </tr>
   </table>
 </div>
 
-
-
+<br><br><br>
 
 <h2 align="center">📞 Contact Me:</h2>
 
