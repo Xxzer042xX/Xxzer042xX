@@ -73,8 +73,15 @@
 
 <br><br><br>
 
+<p align="center">🎮 Game Development Projects
+  <a href=>Project 1(#)</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/yourprofile">🐦 Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 ### 🎮 Game Development Projects
-  - **Project 1:** Description and [GitHub Link](#)
+
   - **Project 2:** Description and [GitHub Link](#)
 
 ### 💻 Software Development Projects
@@ -89,5 +96,6 @@
 
 <p align="center">
   <a href="mailto:your-email@example.com">📧 Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/yourprofile">🐦 Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
