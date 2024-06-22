@@ -28,7 +28,7 @@
   <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
 </p>
 
-<br><br><br>
+<br><br>
 
 <h2 align="center">📚 Learning Languages:</h2>
 
