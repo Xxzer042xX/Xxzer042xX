@@ -42,7 +42,7 @@
 
 <br><br><br>
 
-<h2 align="center">Mastered Tools:</h2>
+<h2 align="center">Tools I'm Exploring:</h2>
 
 <br><br><br>
 
