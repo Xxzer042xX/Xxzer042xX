@@ -64,5 +64,5 @@
   - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
 
 ### 💼 Professional Experience: 
-  - Over 10 years of experience as an automotive mechanic
+  - Over 15 years of experience as an automotive mechanic
   - Currently transitioning into the field of IT and preparing to join Ecole 42 in Lausanne, Switzerland
