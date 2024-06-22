@@ -66,6 +66,7 @@
   It's split into several lines for readability and centered on the page.
 -->
 
+<br>
 <p align="center">
   <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 37, after working as an automotive mechanic for over 15 years, I've decided to pivot into the field of IT. Currently, I'm gearing up to join School 42 in Lausanne, Switzerland.</b>
   <br><br><br>
@@ -83,9 +84,10 @@
   It includes a personal recommendation and a logo with a link.
 -->
 
-<br>
+<br><br>
 <h1 align="center">🎓 Join School 42 :</h1>
 <hr>
+<br>
 <p align="center">
   <b>Explore the innovative approach to education at School 42 and join a global community of passionate learners.</b><br><br>
   <i>* Please note that this is not an official representation of School 42 but a personal recommendation.</i>
@@ -97,9 +99,10 @@
   The following section displays the programming languages being learned.
   It includes centered images of language logos.
 -->
-<br>
+<br><br>
 <h1 align="center">📚 Learning Languages :</h1>
 <hr>
+<br><br>
 <p align="center">
   <img src="images/c.png" alt="C Programming Language Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/cpp.png" alt="C++ Programming Language Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -111,9 +114,10 @@
   It includes centered images of tool logos.
 -->
 
-<br>
+<br><br>
 <h1 align="center">🛠️ Tools I'm Exploring :</h1>
 <hr>
+<br><br>
 <p align="center">
   <img src="images/vim.png" alt="Vim Editor Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/vscode.png" alt="Visual Studio Code Logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -127,9 +131,10 @@
   It includes centered text about educational background and professional experience.
 -->
 
-<br>
+<br><br>
 <h1 align="center">📜 Experience and Education :</h1>
 <hr>
+<br><br>
 <p align="center">
   <b>🎓 Education :</b><br>
   - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
@@ -145,9 +150,10 @@
   It includes centered links for email, LinkedIn, and Twitter.
 -->
 
-<br>
+<br><br>
 <h1 align="center">📞 Contact Me :</h1>
 <hr>
+<br><br>
 <p align="center">
   <a href="mailto:your-email@example.com">📧 Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
