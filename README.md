@@ -66,3 +66,4 @@
 ### 💼 Professional Experience: 
   - Over 15 years of experience as an automotive mechanic
   - Currently transitioning into the field of IT and preparing to join Ecole 42 in Lausanne, Switzerland
+
