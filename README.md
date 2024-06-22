@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub profile! 🚀</h1>
+<h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
 <hr>
 
 <br>
@@ -19,7 +19,7 @@
 
 <br><br><br>
 
-<h1 align="center">🎓 Join School 42:</h1>
+<h1 align="center">🎓 Join School 42 :</h1>
 <hr>
 
 <br><br><br>
@@ -32,7 +32,7 @@
 
 <br><br>
 
-<h1 align="center">📚 Learning Languages:</h1>
+<h1 align="center">📚 Learning Languages :</h1>
 <hr>
 
 <br><br><br>
@@ -45,7 +45,7 @@
 
 <br><br><br>
 
-<h1 align="center">🛠️ Tools I'm Exploring:</h1>
+<h1 align="center">🛠️ Tools I'm Exploring :</h1>
 <hr>
 
 <br><br><br>
@@ -60,7 +60,7 @@
 
 <br><br><br>
 
-<h1 align="center">📜 Experience and Education:</h1>
+<h1 align="center">📜 Experience and Education :</h1>
 <hr>
 
 <br><br><br>
@@ -74,7 +74,7 @@
 
 <br><br><br>
 
-<h1 align="center">📂 Featured Projects:</h1>
+<h1 align="center">📂 Featured Projects :</h1>
 <hr>
 
 <br><br>
@@ -112,7 +112,7 @@
 
 <br><br><br>
 
-<h1 align="center">📞 Contact Me:</h1>
+<h1 align="center">📞 Contact Me :</h1>
 <hr>
 
 <br><br><br>
