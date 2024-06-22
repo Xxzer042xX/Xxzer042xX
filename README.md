@@ -15,6 +15,7 @@
   The title is centered using the "align" attribute.
   It's followed by a horizontal line for visual separation.
 -->
+
 <h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
 <hr>
 
@@ -23,6 +24,7 @@
   Each cell represents a category: Game Development, 42 Cursus, and Software Development.
   Inside each cell, there are links to specific projects.
 -->
+
 <div align="center">
   <table style="width: 100%;">
     <tr>
@@ -54,6 +56,7 @@
 <!--
   This section displays a centered image with an alt text for accessibility.
 -->
+
 <p align="center">
   <img src="images/scifi_room.gif" alt="Welcome to my GitHub profile!">
 </p>
@@ -62,6 +65,7 @@
   The following paragraph provides a personal introduction.
   It's split into several lines for readability and centered on the page.
 -->
+
 <p align="center">
   <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 37, after working as an automotive mechanic for over 15 years, I've decided to pivot into the field of IT. Currently, I'm gearing up to join School 42 in Lausanne, Switzerland.</b>
   <br><br><br>
@@ -78,6 +82,7 @@
   The following section provides a link to School 42.
   It includes a personal recommendation and a logo with a link.
 -->
+
 <h1 align="center">🎓 Join School 42 :</h1>
 <hr>
 <p align="center">
@@ -91,6 +96,7 @@
   The following section displays the programming languages being learned.
   It includes centered images of language logos.
 -->
+
 <h1 align="center">📚 Learning Languages :</h1>
 <hr>
 <p align="center">
@@ -103,6 +109,7 @@
   The following section displays the tools being explored.
   It includes centered images of tool logos.
 -->
+
 <h1 align="center">🛠️ Tools I'm Exploring :</h1>
 <hr>
 <p align="center">
@@ -117,6 +124,7 @@
   The following section displays experience and education details.
   It includes centered text about educational background and professional experience.
 -->
+
 <h1 align="center">📜 Experience and Education :</h1>
 <hr>
 <p align="center">
@@ -133,6 +141,7 @@
   The following section contains contact links.
   It includes centered links for email, LinkedIn, and Twitter.
 -->
+
 <h1 align="center">📞 Contact Me :</h1>
 <hr>
 <p align="center">
@@ -150,7 +159,7 @@
  *    even without prior knowledge. If you spot areas that    *
  *    can be improved or corrected, please feel free to       *
  *    make your changes and submit a pull request. Your       *
- *    contributions are greatly appreciated!                  *
+ *    contributions are greatly appreciated!  o7              *
  *                                                            *
  \************************************************************/
 -->
