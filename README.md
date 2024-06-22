@@ -73,7 +73,7 @@
 
 <br><br><br>
 
-### 🚀 Game Development Projects
+### 🎮 Game Development Projects
   - **Project 1:** Description and [GitHub Link](#)
   - **Project 2:** Description and [GitHub Link](#)
 
