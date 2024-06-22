@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub profile!</h1>
+<h1 align="center">Welcome to my GitHub profile! 🚀</h1>
 
 <br>
 
@@ -18,7 +18,7 @@
 
 <br><br><br>
 
-<h2 align="center">Join Ecole 42:</h2>
+<h2 align="center">🎓 Join Ecole 42:</h2>
 
 <br><br><br>
 
@@ -30,7 +30,7 @@
 
 <br><br><br>
 
-<h2 align="center">Learning Languages:</h2>
+<h2 align="center">📚 Learning Languages:</h2>
 
 <br><br><br>
 
@@ -42,7 +42,7 @@
 
 <br><br><br>
 
-<h2 align="center">Tools I'm Exploring:</h2>
+<h2 align="center">🛠️ Tools I'm Exploring:</h2>
 
 <br><br><br>
 
@@ -56,13 +56,13 @@
 
 <br><br><br>
 
-<h2 align="center">Experience and Education:</h2>
+<h2 align="center">📜 Experience and Education:</h2>
 
 <br><br><br>
 
-### Education 
+### 🎓 Education 
   - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
 
-### Professional Experience: 
+### 💼 Professional Experience: 
   - Over 10 years of experience as an automotive mechanic
   - Currently transitioning into the field of IT and preparing to join Ecole 42 in Lausanne, Switzerland
