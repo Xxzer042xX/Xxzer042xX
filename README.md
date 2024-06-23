@@ -129,11 +129,11 @@
 <hr>
 <br><br>
 <p align="center">
-  <a href="https://42lausanne.ch/" target="_blank"><img src="images/vim.png" alt="Vim Editor Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://42lausanne.ch/" target="_blank"><img src="images/vscode.png" alt="Visual Studio Code Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://42lausanne.ch/" target="_blank"><img src="images/visual.png" alt="Visual Studio Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://42lausanne.ch/" target="_blank"><img src="images/terminal.png" alt="Terminal Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://42lausanne.ch/" target="_blank"><img src="images/unreal.png" alt="Unreal Engine Logo" width="80" height="80"></a>
+  <a href="https://fr.wikipedia.org/wiki/Vim" target="_blank"><img src="images/vim.png" alt="Vim Editor Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://fr.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img src="images/vscode.png" alt="Visual Studio Code Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://fr.wikipedia.org/wiki/Microsoft_Visual_Studio" target="_blank"><img src="images/visual.png" alt="Visual Studio Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://fr.wikipedia.org/wiki/Interface_en_ligne_de_commande" target="_blank"><img src="images/terminal.png" alt="Terminal Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://fr.wikipedia.org/wiki/Unreal_Engine" target="_blank"><img src="images/unreal.png" alt="Unreal Engine Logo" width="80" height="80"></a>
 </p>
 
 <!--
