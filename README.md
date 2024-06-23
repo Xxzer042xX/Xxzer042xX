@@ -31,7 +31,7 @@
       <td align="center" style="width: 33.33%;">
         🎮 <b>Game Development</b>
         <ul>
-          <li><a href="https://github.com/yourusername/game-project-1">Athanor game</a></li>
+          <li><a href="https://www.athanor.games/">Athanor game</a></li>
           <br>
           <!--
           <li><a href="https://github.com/yourusername/game-project-2">Game Project 2</a></li>
