@@ -31,8 +31,8 @@
       <td align="center" style="width: 33.33%;">
         🎮 <b>Game Development</b>
         <ul>
-          <li><a href="https://www.athanor.games/">Athanor</a></li>
           <br>
+          <li><a href="https://www.athanor.games/">Athanor</a></li>
           <!--
           <li><a href="https://github.com/yourusername/game-project-2">Game Project 2</a></li>
           -->
@@ -41,8 +41,8 @@
       <td align="center" style="width: 33.33%;">
         🎓 <b>42 Cursus and swimming pool</b>
         <ul>
-          <li><a href="https://github.com/Xxzer042xX/42/blob/master/README.MD">42 swimming pool</a></li>
           <br>
+          <li><a href="https://github.com/Xxzer042xX/42/blob/master/README.MD">42 swimming pool</a></li>
           <!--
           <li><a href="https://github.com/yourusername/42-cursus-project-2">42 Cursus Project 2</a></li>
           -->  
@@ -51,9 +51,9 @@
       <td align="center" style="width: 33.33%;">
         💻 <b>Software Development</b>
         <ul>
-          <br><br>
+          <br>
+          <li><a href="https://github.com/Xxzer042xX/discord_bot">Discord Server Assistant Bot</a></li>
           <!--
-          <li><a href="https://github.com/yourusername/software-project-1">Software Project 1</a></li>
           <br>
           <li><a href="https://github.com/yourusername/software-project-2">Software Project 2</a></li>
           -->        
