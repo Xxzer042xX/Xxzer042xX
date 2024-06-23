@@ -166,7 +166,7 @@
 <hr>
 <br><br>
 <p align="center">
-  <a href="mailto:your-email@example.com">📧 Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:eljok87@gmaile.com">📧 Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/yourprofile">🐦 Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
