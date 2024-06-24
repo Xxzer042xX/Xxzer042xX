@@ -52,7 +52,7 @@
         💻 <b>Software Development</b>
         <ul>
           <br>
-          <li><a href="https://github.com/Xxzer042xX/discord_bot">Discord Server Assistant Bot</a></li>
+          <li><a href="https://github.com/Xxzer042xX/discord_bot/blob/main/README.md">Discord Server Assistant Bot</a></li>
           <!--
           <br>
           <li><a href="https://github.com/yourusername/software-project-2">Software Project 2</a></li>
