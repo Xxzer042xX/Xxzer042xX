@@ -41,10 +41,8 @@
         <ul>
           <br>
           <li><a href="https://github.com/Xxzer042xX/Discord_Task_Master_Bot/blob/main/README.md">Discord Task Master</a></li>
-          <!--
           <br>
-          <li><a href="https://github.com/yourusername/software-project-2">Software Project 2</a></li>
-          -->        
+          <li><a href="https://github.com/Xxzer042xX/C_calculatrice/blob/main/calculator.c">Calculator_c</a></li>
         </ul>
       </td>
     </tr>
