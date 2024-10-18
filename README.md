@@ -64,7 +64,7 @@
 
 <br>
 <p align="center">
-  <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 37, after working as an automotive mechanic for over 15 years, I've decided to pivot into the field of IT. Currently, I'm gearing up to join School 42 in Lausanne, Switzerland.</b>
+  <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 37, after working as an automotive mechanic for over 15 years, I've decided to pivot into the field of IT. Currently, I'm join School 42 in Lausanne, Switzerland.</b>
   <br><br><br>
   <b>🌟 My interest in IT sparked from my love for video games. I'm fascinated by how hardware and software interact to create interactive and immersive experiences.</b>
   <br><br><br>
