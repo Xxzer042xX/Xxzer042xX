@@ -21,9 +21,8 @@
         <ul>
           <br>
           <li><a href="https://www.athanor.games/">Athanor</a></li>
-          <!--
-          <li><a href="https://github.com/yourusername/game-project-2">Game Project 2</a></li>
-          -->
+          <br>
+          <li><a href="https://github.com/yourusername/game-project-2">Comming Soon</a></li>
         </ul>
       </td>
       <td align="center" style="width: 33.33%;">
@@ -31,9 +30,8 @@
         <ul>
           <br>
           <li><a href="https://github.com/Xxzer042xX/42/blob/master/README.MD">42 swimming pool</a></li>
-          <!--
-          <li><a href="https://github.com/yourusername/42-cursus-project-2">42 Cursus Project 2</a></li>
-          -->  
+          <br>
+          <li><a href="https://github.com/Xxzer042xX/libft">42 libft</a></li>
           </ul>
       </td>
       <td align="center" style="width: 33.33%;">
