@@ -29,7 +29,7 @@
         🎓 <b>42 Cursus and swimming pool</b>
         <ul>
           <br>
-          <li><a href="https://github.com/Xxzer042xX/42/blob/master/README.MD">42 swimming pool</a></li>
+          <li><a href="https://github.com/Xxzer042xX/42/tree/master">42 swimming pool</a></li>
           <br>
           <li><a href="https://github.com/Xxzer042xX/libft">42 libft</a></li>
           </ul>
