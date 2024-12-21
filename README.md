@@ -64,16 +64,22 @@
   - Common Core curriculum progress
   - Piscine (pool) experience and results
 -->
-<div align="center">
 
 # 🎓 42 School Progress
-  
-<img src="https://img.shields.io/badge/42-Paris-1E2024?style=for-the-badge&logo=42" />
+---
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/42-Lausanne-1E2024?style=for-the-badge&logo=42" />
+</div>
+
+<br><br>
 
 <table width="100%">
 <tr>
 <td width="50%" align="center">
+  
 
+  
 ### 📚 Common Core Progress
 <img src="https://img.shields.io/badge/Grade-In%20Progress-blue?style=for-the-badge&logo=42&logoColor=white" />
 <br><br>
