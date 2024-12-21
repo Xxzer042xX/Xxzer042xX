@@ -46,26 +46,62 @@
   </table>
 </div>
 
+
+</div>
+
+<div align="center">
+
 ## 🎓 42 School Progress
 
+<table width="100%" style="margin: 0 auto;">
+<tr>
+<td width="50%" valign="top">
+
 ### Common Core Progress
-| Circle | Project | Status | Score |
-|--------|---------|--------|-------|
-| Circle 0 | [Libft](https://github.com/Xxzer042xX/libft) | ✅ | 125/100 |
-| Circle 1 | [ft_printf](https://github.com/Xxzer042xX/ft_printf) | ✅ | 125/100 |
-|  | [get_next_line](https://github.com/Xxzer042xX/get_next_line) | ✅ | 110/100 |
-|  | [Born2beroot](https://github.com/Xxzer042xX/Born2beroot) | ✅ | 125/100 |
-| Circle 2 | [FDF](https://github.com/Xxzer042xX/fdf) | ✅ | 125/100 |
-|  | [push_swap](https://github.com/Xxzer042xX/push_swap) | 🔄 | In Progress |
-|  | [pipex](https://github.com/Xxzer042xX/pipex) | 📝 | Planned |
+| Circle | Project | Status | Score | Time |
+|:------:|:--------|:------:|:-----:|:----:|
+| Circle 0 | [Libft](https://github.com/Xxzer042xX/libft) | ✅ | 125/100 | ~70h |
+| Circle 1 | [ft_printf](https://github.com/Xxzer042xX/ft_printf) | ✅ | 125/100 | ~70h |
+|  | [get_next_line](https://github.com/Xxzer042xX/get_next_line) | ✅ | 110/100 | ~70h |
+|  | [Born2beroot](https://github.com/Xxzer042xX/Born2beroot) | ✅ | 125/100 | ~40h |
+| Circle 2 | [FDF](https://github.com/Xxzer042xX/fdf) | ✅ | 125/100 | ~60h |
+|  | [push_swap](https://github.com/Xxzer042xX/push_swap) | 🔄 | In Progress | ~60h |
+|  | [pipex](https://github.com/Xxzer042xX/pipex) | 📝 | Planned | ~50h |
+
+</td>
+<td width="50%" valign="top">
 
 ### Piscine Experience
-| Week | Projects Completed | Main Learnings |
-|------|-------------------|----------------|
-| Week 1 | Shell00, Shell01 | Unix commands, Shell scripting |
-| Week 2 | C00, C01 | C basics, Pointers |
-| Week 3 | C02, C03, C04 | String manipulation, Memory |
-| Week 4 | C05, C06 | Recursion, Program arguments |
+| Module | Status | Score |
+|:------:|:------:|:-----:|
+| [Shell00](https://github.com/Xxzer042xX/shell00) | ✅ | 100% |
+| [Shell01](https://github.com/Xxzer042xX/shell01) | ✅ | 85% |
+| [C00](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
+| [C01](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
+| [C02](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
+| [C03](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
+| [C04](https://github.com/Xxzer042xX/C00) | ✅ | 50% |
+| [C05](https://github.com/Xxzer042xX/C00) | ✅ | 80% |
+| [C06](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
+| [C07](https://github.com/Xxzer042xX/C00) | ✅ | 60% |
+| [C08](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
+| [Rush00](https://github.com/Xxzer042xX/C00) | ✅ | 116% |
+| Exam0 | ✅ | 90% |
+| Exam01 | ✅ | 70% |
+| Exam02 | ✅ | 60% |
+| Final Exam | ✅ | 60% |
+
+</td>
+</tr>
+</table>
+
+## 🎓 Join School 42 :
+
+Explore the innovative approach to education at School 42 and join a global community of passionate learners.
+
+*Please note that this is not an official representation of School 42 but a personal recommendation.*
+
+</div>
 
 <!--
   The following section provides a link to School 42.
