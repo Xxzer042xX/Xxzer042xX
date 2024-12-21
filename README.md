@@ -1,3 +1,8 @@
+<!--
+**************************************************
+  Header Section - Welcome and Profile Introduction
+**************************************************
+-->
 <h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
 <hr>
 
@@ -9,6 +14,16 @@
   <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 38, after working as an automotive mechanic for over 15 years, I decided to pivot into the field of IT. I joined School 42 in Lausanne, Switzerland.</b>
 </p>
 <br>
+
+<!--
+**************************************************
+  Projects Overview Section
+  - Game Development
+  - Cybersecurity
+  - Hackathons
+  - Software Development
+**************************************************
+-->
 
 <div align="center">
   
@@ -50,14 +65,13 @@
 </div>
 <br>
 
-
-
-
-
-
-
-
-
+<!--
+**************************************************
+  42 School Progress Section
+  - Common Core curriculum progress
+  - Piscine experience and results
+**************************************************
+-->
 
 # 🎓 42 School Progress
 ---
@@ -119,6 +133,13 @@
 </table>
 </div>
 
+<!--
+**************************************************
+  School 42 Promotion Section
+  - Information about joining School 42
+  - Disclaimer and logo
+**************************************************
+-->
 
 <br><br>
 <h1 align="center">🎓 Join School 42 :</h1>
@@ -131,6 +152,15 @@
   <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
 </p>
 
+
+<!--
+**************************************************
+  Technical Skills Section
+  - Programming Languages
+  - Development Tools
+**************************************************
+-->
+
 <br><br>
 <h1 align="center">📚 Learning Languages :</h1>
 <hr>
@@ -140,6 +170,15 @@
   <a href="https://fr.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="images/cpp.png" alt="C++ Programming Language Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fr.wikipedia.org/wiki/Bourne-Again_shell" target="_blank"><img src="images/bash.png" alt="Bash Shell Logo" width="80" height="80"></a>
 </p>
+
+
+<!--
+**************************************************
+  Tools and Technologies Section
+  - Development environments
+  - Software tools
+**************************************************
+-->
 
 <br><br>
 <h1 align="center">🛠️ Tools I'm Exploring :</h1>
@@ -152,6 +191,14 @@
   <a href="https://fr.wikipedia.org/wiki/Interface_en_ligne_de_commande" target="_blank"><img src="images/terminal.png" alt="Terminal Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fr.wikipedia.org/wiki/Unreal_Engine" target="_blank"><img src="images/unreal.png" alt="Unreal Engine Logo" width="80" height="80"></a>
 </p>
+
+<!--
+**************************************************
+  Professional Background Section
+  - Education history
+  - Work experience
+**************************************************
+-->
 
 <br><br>
 <h1 align="center">📜 Experience and Education :</h1>
@@ -167,6 +214,14 @@
   - Over 15 years of experience as an automotive mechanic<br>
   - Currently transitioning into the field of IT and preparing to join School 42 in Lausanne, Switzerland
 </p>
+
+<!--
+**************************************************
+  Contact Information Section
+  - Social media links
+  - Professional networks
+**************************************************
+-->
 
 <br><br>
 <h1 align="center">📞 Contact Me :</h1>
