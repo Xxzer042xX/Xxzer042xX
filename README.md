@@ -41,15 +41,15 @@
       <td align="center" style="width: 25%;">
         🔒 <b>Cybersecurity</b>
         <ul>
-          <li><a href="#">Security CTF Writeups</a></li>
-          <li><a href="#">Network Security Tools</a></li>
+         <li><a href="#">42 Cyber Security Conference</a></li>
+          <li><a href="https://github.com/yourusername/game-project-2">Coming Soon</a></li>
         </ul>
       </td>
       <td align="center" style="width: 25%;">
         🏆 <b>Hackathons</b>
         <ul>
           <li><a href="https://www.blackalps.ch/ba/">Black Alps 2024</a></li>
-          <li><a href="#">Swiss Cyber Storm</a></li>
+          <li><a href="https://github.com/yourusername/game-project-2">Coming Soon</a></li>
         </ul>
       </td>
       <td align="center" style="width: 25%;">
