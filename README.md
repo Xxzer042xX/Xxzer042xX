@@ -86,6 +86,7 @@
 | Circle 2 | [FDF](https://github.com/Xxzer042xX/fdf) | ✅ | 125/100 | ~60h |
 |  | [push_swap](https://github.com/Xxzer042xX/push_swap) | 🔄 | In Progress | ~60h |
 |  | [pipex](https://github.com/Xxzer042xX/pipex) | 📝 | Planned | ~50h |
+|  | Examen 02 | 📝 | Planned | ~4h |
 
 </td>
 <td width="50%" valign="top">
