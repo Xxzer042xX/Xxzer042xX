@@ -1,3 +1,8 @@
+<!--
+  The following section provides a link to School 42.
+  It includes a personal recommendation and a logo with a link.
+-->
+
 <h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
 <hr>
 
@@ -11,6 +16,12 @@
 <br>
 
 <div align="center">
+
+<!--
+  The following section provides a link to School 42.
+  It includes a personal recommendation and a logo with a link.
+-->
+
   
 ## 📊 My Projects
 ---
@@ -52,6 +63,11 @@
 <br>
 </div>
 <div align="center">
+
+<!--
+  The following section provides a link to School 42.
+  It includes a personal recommendation and a logo with a link.
+-->
 
 ## 🎓 42 School Progress
 ---
