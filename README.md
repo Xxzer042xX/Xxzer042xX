@@ -52,11 +52,11 @@
 | Circle | Project | Status | Score |
 |--------|---------|--------|-------|
 | Circle 0 | [Libft](https://github.com/Xxzer042xX/libft) | ✅ | 125/100 |
-| Circle 1 | [ft_printf](https://github.com/Xxzer042xX/ft_printf) | ✅ | 100/100 |
-|  | [get_next_line](https://github.com/Xxzer042xX/get_next_line) | ✅ | 125/100 |
-|  | [Born2beroot](https://github.com/Xxzer042xX/Born2beroot) | ✅ | 110/100 |
-| Circle 2 | [so_long](https://github.com/Xxzer042xX/so_long) | 🔄 | In Progress |
-|  | [push_swap](https://github.com/Xxzer042xX/push_swap) | 📝 | Planned |
+| Circle 1 | [ft_printf](https://github.com/Xxzer042xX/ft_printf) | ✅ | 125/100 |
+|  | [get_next_line](https://github.com/Xxzer042xX/get_next_line) | ✅ | 110/100 |
+|  | [Born2beroot](https://github.com/Xxzer042xX/Born2beroot) | ✅ | 125/100 |
+| Circle 2 | [so_long](https://github.com/Xxzer042xX/fdf) | ✅ | 125/100 |
+|  | [push_swap](https://github.com/Xxzer042xX/push_swap) | 🔄 | In Progress |
 |  | [pipex](https://github.com/Xxzer042xX/pipex) | 📝 | Planned |
 
 ### Piscine Experience
