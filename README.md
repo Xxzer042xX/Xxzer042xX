@@ -85,6 +85,7 @@
 <td width="50%" align="center" valign="top">
 
 ### 📚 Common Core Progress
+<br>
 <img src="https://img.shields.io/badge/Grade-In%20Progress-blue?style=for-the-badge&logo=42&logoColor=white" />
 <br><br>
 
@@ -105,6 +106,7 @@
 <td width="50%" align="center" valign="top">
 
 ### 🌊 Piscine Experience
+<br>
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=42&logoColor=white" />
 <br><br>
 
