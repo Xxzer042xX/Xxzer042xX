@@ -13,7 +13,8 @@
 <div align="center">
   
 ## 📊 My Projects
----  
+---
+<br>
   <table style="width: 100%;">
     <tr>
       <td align="center" style="width: 25%;">
@@ -54,6 +55,7 @@
 
 ## 🎓 42 School Progress
 ---
+<br>
 <table width="100%" style="margin: 0 auto;">
 <tr>
 <td width="50%" valign="top">
@@ -95,14 +97,7 @@
 </td>
 </tr>
 </table>
-
-## 🎓 Join School 42 :
----
-Explore the innovative approach to education at School 42 and join a global community of passionate learners.
-
-*Please note that this is not an official representation of School 42 but a personal recommendation.*
-
-</div>
+<br>
 
 <!--
   The following section provides a link to School 42.
