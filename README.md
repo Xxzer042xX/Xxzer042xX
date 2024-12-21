@@ -1,6 +1,3 @@
-<!--
-  Header section with welcome message and personal introduction
--->
 <h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
 <hr>
 
@@ -13,13 +10,6 @@
 </p>
 <br>
 
-<!--
-  Projects section showcasing different categories of work:
-  - Game Development
-  - Cybersecurity
-  - Hackathons
-  - Software Development
--->
 <div align="center">
   
 ## 📊 My Projects
@@ -59,27 +49,21 @@
   </table>
 </div>
 <br>
-<!--
-  42 School Progress section showing:
-  - Common Core curriculum progress
-  - Piscine (pool) experience and results
--->
 
 # 🎓 42 School Progress
 ---
-<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/42-Lausanne-1E2024?style=for-the-badge&logo=42" />
 </div>
 
 <br><br>
 
+<div align="center">
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-  
 
-  
 ### 📚 Common Core Progress
 <img src="https://img.shields.io/badge/Grade-In%20Progress-blue?style=for-the-badge&logo=42&logoColor=white" />
 <br><br>
@@ -126,11 +110,8 @@
 </td>
 </tr>
 </table>
-
 </div>
-<!--
-  School 42 promotional section with disclaimer and logo
--->
+
 <br><br>
 <h1 align="center">🎓 Join School 42 :</h1>
 <hr>
@@ -142,9 +123,6 @@
   <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
 </p>
 
-<!--
-  Programming languages section showing current learning focus
--->
 <br><br>
 <h1 align="center">📚 Learning Languages :</h1>
 <hr>
@@ -155,9 +133,6 @@
   <a href="https://fr.wikipedia.org/wiki/Bourne-Again_shell" target="_blank"><img src="images/bash.png" alt="Bash Shell Logo" width="80" height="80"></a>
 </p>
 
-<!--
-  Development tools and environments currently being explored
--->
 <br><br>
 <h1 align="center">🛠️ Tools I'm Exploring :</h1>
 <hr>
@@ -170,9 +145,6 @@
   <a href="https://fr.wikipedia.org/wiki/Unreal_Engine" target="_blank"><img src="images/unreal.png" alt="Unreal Engine Logo" width="80" height="80"></a>
 </p>
 
-<!--
-  Professional background and educational history section
--->
 <br><br>
 <h1 align="center">📜 Experience and Education :</h1>
 <hr>
@@ -188,9 +160,6 @@
   - Currently transitioning into the field of IT and preparing to join School 42 in Lausanne, Switzerland
 </p>
 
-<!--
-  Contact information and social media links
--->
 <br><br>
 <h1 align="center">📞 Contact Me :</h1>
 <hr>
