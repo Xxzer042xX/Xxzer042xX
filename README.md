@@ -50,19 +50,26 @@
 </div>
 <br>
 
+
+
+
+
+
+
+
+
+
 # 🎓 42 School Progress
 ---
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/42-Lausanne-1E2024?style=for-the-badge&logo=42" />
 </div>
-
 <br><br>
-
 <div align="center">
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 📚 Common Core Progress
 <img src="https://img.shields.io/badge/Grade-In%20Progress-blue?style=for-the-badge&logo=42&logoColor=white" />
@@ -82,7 +89,7 @@
 || Philosopher | 🔒 | Forbidden | ~70h |
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🌊 Piscine Experience
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=42&logoColor=white" />
@@ -111,6 +118,7 @@
 </tr>
 </table>
 </div>
+
 
 <br><br>
 <h1 align="center">🎓 Join School 42 :</h1>
