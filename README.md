@@ -1,8 +1,6 @@
 <!--
-  The following section provides a link to School 42.
-  It includes a personal recommendation and a logo with a link.
+  Header section with welcome message and personal introduction
 -->
-
 <h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
 <hr>
 
@@ -15,13 +13,14 @@
 </p>
 <br>
 
-<div align="center">
-
 <!--
-  The following section provides a link to School 42.
-  It includes a personal recommendation and a logo with a link.
+  Projects section showcasing different categories of work:
+  - Game Development
+  - Cybersecurity
+  - Hackathons
+  - Software Development
 -->
-
+<div align="center">
   
 ## 📊 My Projects
 ---
@@ -60,14 +59,12 @@
   </table>
 </div>
 
-<br>
-</div>
-<div align="center">
-
 <!--
-  The following section provides a link to School 42.
-  It includes a personal recommendation and a logo with a link.
+  42 School Progress section showing:
+  - Common Core curriculum progress
+  - Piscine (pool) experience and results
 -->
+<div align="center">
 
 ## 🎓 42 School Progress
 ---
@@ -89,7 +86,6 @@
 |  | Examen 02 | 📝 | Planned | ~4h |
 | Circle 3 | minishell | 🔒 | Forbidden | ~210h |
 |  | Philosopher | 🔒 | Forbidden | ~70h |
-
 
 </td>
 <td width="50%" valign="top">
@@ -120,10 +116,8 @@
 <br>
 
 <!--
-  The following section provides a link to School 42.
-  It includes a personal recommendation and a logo with a link.
+  School 42 promotional section with disclaimer and logo
 -->
-
 <br><br>
 <h1 align="center">🎓 Join School 42 :</h1>
 <hr>
@@ -136,8 +130,7 @@
 </p>
 
 <!--
-  The following section displays the programming languages being learned.
-  It includes centered images of language logos.
+  Programming languages section showing current learning focus
 -->
 <br><br>
 <h1 align="center">📚 Learning Languages :</h1>
@@ -150,10 +143,8 @@
 </p>
 
 <!--
-  The following section displays the tools being explored.
-  It includes centered images of tool logos.
+  Development tools and environments currently being explored
 -->
-
 <br><br>
 <h1 align="center">🛠️ Tools I'm Exploring :</h1>
 <hr>
@@ -167,10 +158,8 @@
 </p>
 
 <!--
-  The following section displays experience and education details.
-  It includes centered text about educational background and professional experience.
+  Professional background and educational history section
 -->
-
 <br><br>
 <h1 align="center">📜 Experience and Education :</h1>
 <hr>
@@ -187,10 +176,8 @@
 </p>
 
 <!--
-  The following section contains contact links.
-  It includes centered links for email, LinkedIn, and Twitter.
+  Contact information and social media links
 -->
-
 <br><br>
 <h1 align="center">📞 Contact Me :</h1>
 <hr>
@@ -198,7 +185,7 @@
 <p align="center">
   <a href="mailto:eljok87@gmail.com">📧 Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/yourprofile">🐦 Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/yourprofile">🐦 Twitter</a>
 </p>
 
 <!--
@@ -214,4 +201,3 @@
  *                                                 o7         *
  *                                                            *
  \************************************************************/
--->
