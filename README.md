@@ -66,41 +66,37 @@
 -->
 <div align="center">
 
-## 🎓 42 School Progress
----
-<br>
-<table width="100%" style="margin: 0 auto;">
-<tr>
-<td width="50%" valign="top">
+# 🎓 42 School Progress
+  
+<img src="https://img.shields.io/badge/42-Paris-1E2024?style=for-the-badge&logo=42" />
 
-<br>
-<p align="center">
-  <b>Common Core Progress</b>
-</p>
-<br>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+### 📚 Common Core Progress
+<img src="https://img.shields.io/badge/Grade-In%20Progress-blue?style=for-the-badge&logo=42&logoColor=white" />
+<br><br>
 
 | Circle | Project | Status | Score | Time |
 |:------:|:--------|:------:|:-----:|:----:|
 | Circle 0 | [Libft](https://github.com/Xxzer042xX/libft) | ✅ | 125/100 | ~70h |
 | Circle 1 | [ft_printf](https://github.com/Xxzer042xX/ft_printf) | ✅ | 125/100 | ~70h |
-|  | [get_next_line](https://github.com/Xxzer042xX/get_next_line) | ✅ | 110/100 | ~70h |
-|  | [Born2beroot](https://github.com/Xxzer042xX/Born2beroot) | ✅ | 125/100 | ~40h |
+|| [get_next_line](https://github.com/Xxzer042xX/get_next_line) | ✅ | 110/100 | ~70h |
+|| [Born2beroot](https://github.com/Xxzer042xX/Born2beroot) | ✅ | 125/100 | ~40h |
 | Circle 2 | [FDF](https://github.com/Xxzer042xX/fdf) | ✅ | 125/100 | ~60h |
-|  | [push_swap](https://github.com/Xxzer042xX/push_swap) | 🔄 | In Progress | ~60h |
-|  | [pipex](https://github.com/Xxzer042xX/pipex) | 📝 | Planned | ~50h |
-|  | Examen 02 | 📝 | Planned | ~4h |
+|| [push_swap](https://github.com/Xxzer042xX/push_swap) | 🔄 | In Progress | ~60h |
+|| [pipex](https://github.com/Xxzer042xX/pipex) | 📝 | Planned | ~50h |
+|| Examen 02 | 📝 | Planned | ~4h |
 | Circle 3 | minishell | 🔒 | Forbidden | ~210h |
-|  | Philosopher | 🔒 | Forbidden | ~70h |
+|| Philosopher | 🔒 | Forbidden | ~70h |
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<br>
-<p align="center">
-  <b>Piscine Experience</b>
-</p>
-<br>
-
+### 🌊 Piscine Experience
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=42&logoColor=white" />
+<br><br>
 
 | Module | Status | Score |
 |:------:|:------:|:-----:|
@@ -124,8 +120,8 @@
 </td>
 </tr>
 </table>
-<br>
 
+</div>
 <!--
   School 42 promotional section with disclaimer and logo
 -->
