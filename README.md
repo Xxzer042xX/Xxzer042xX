@@ -58,7 +58,7 @@
     </tr>
   </table>
 </div>
-
+<br>
 <!--
   42 School Progress section showing:
   - Common Core curriculum progress
