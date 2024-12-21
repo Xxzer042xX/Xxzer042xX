@@ -52,7 +52,7 @@
 
 # 🎓 42 School Progress
 ---
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/42-Lausanne-1E2024?style=for-the-badge&logo=42" />
 </div>
