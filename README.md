@@ -1,77 +1,71 @@
-<!--
-  This section contains the main title of the page.
-  The title is centered using the "align" attribute.
-  It's followed by a horizontal line for visual separation.
--->
-
 <h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
 <hr>
 
-<!--
-  The following table organizes the different types of projects.
-  Each cell represents a category: Game Development, 42 Cursus, and Software Development.
-  Inside each cell, there are links to specific projects.
--->
+<p align="center">
+  <img src="images/scifi_room.gif" alt="Welcome to my GitHub profile!">
+</p>
+
+<p align="center">
+  <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 38, after working as an automotive mechanic for over 15 years, I decided to pivot into the field of IT. I joined School 42 in Lausanne, Switzerland.</b>
+</p>
+
+## 📊 My Projects
 
 <div align="center">
   <table style="width: 100%;">
     <tr>
-      <td align="center" style="width: 33.33%;">
+      <td align="center" style="width: 25%;">
         🎮 <b>Game Development</b>
         <ul>
-          <br>
           <li><a href="https://www.athanor.games/">Athanor</a></li>
-          <br>
-          <li><a href="https://github.com/yourusername/game-project-2">Comming Soon</a></li>
+          <li><a href="https://github.com/yourusername/game-project-2">Coming Soon</a></li>
         </ul>
       </td>
-      <td align="center" style="width: 33.33%;">
-        🎓 <b>42 Cursus and swimming pool</b>
+      <td align="center" style="width: 25%;">
+        🔒 <b>Cybersecurity</b>
         <ul>
-          <br>
-          <li><a href="https://github.com/Xxzer042xX/42/tree/master">42 swimming pool</a></li>
-          <br>
-          <li><a href="https://github.com/Xxzer042xX/libft">42 libft</a></li>
-          </ul>
+          <li><a href="#">Security CTF Writeups</a></li>
+          <li><a href="#">Network Security Tools</a></li>
+        </ul>
       </td>
-      <td align="center" style="width: 33.33%;">
+      <td align="center" style="width: 25%;">
+        🏆 <b>Hackathons</b>
+        <ul>
+          <li><a href="#">LauzHack 2023</a></li>
+          <li><a href="#">Swiss Cyber Storm</a></li>
+        </ul>
+      </td>
+      <td align="center" style="width: 25%;">
         💻 <b>Software Development</b>
         <ul>
-          <br>
-          <li><a href="https://github.com/Xxzer042xX/Discord_Task_Master_Bot/blob/main/README.md">Discord Task Master</a></li>
-          <br>
-          <li><a href="https://github.com/Xxzer042xX/C_calculatrice/blob/main/calculator.c">Calculator_c</a></li>
+          <li><a href="https://github.com/Xxzer042xX/Discord_Task_Master_Bot">Discord Task Master</a></li>
+          <li><a href="https://github.com/Xxzer042xX/C_calculatrice">Calculator_c</a></li>
         </ul>
       </td>
     </tr>
   </table>
 </div>
 
-<!--
-  This section displays a centered image with an alt text for accessibility.
--->
+## 🎓 42 School Progress
 
-<p align="center">
-  <img src="images/scifi_room.gif" alt="Welcome to my GitHub profile!">
-</p>
+### Common Core Progress
+| Circle | Project | Status | Score |
+|--------|---------|--------|-------|
+| Circle 0 | [Libft](https://github.com/Xxzer042xX/libft) | ✅ | 125/100 |
+| Circle 1 | [ft_printf](https://github.com/Xxzer042xX/ft_printf) | ✅ | 100/100 |
+|  | [get_next_line](https://github.com/Xxzer042xX/get_next_line) | ✅ | 125/100 |
+|  | [Born2beroot](https://github.com/Xxzer042xX/Born2beroot) | ✅ | 110/100 |
+| Circle 2 | [so_long](https://github.com/Xxzer042xX/so_long) | 🔄 | In Progress |
+|  | [push_swap](https://github.com/Xxzer042xX/push_swap) | 📝 | Planned |
+|  | [pipex](https://github.com/Xxzer042xX/pipex) | 📝 | Planned |
 
-<!--
-  The following paragraph provides a personal introduction.
-  It's split into several lines for readability and centered on the page.
--->
-
-<br>
-<p align="center">
-  <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 38, after working as an automotive mechanic for over 15 years, I decided to pivot into the field of IT. I joined School 42 in Lausanne, Switzerland.</b>
-  <br><br><br>
-  <b>🌟 My interest in IT stems from my love for video games. I'm fascinated by how hardware and software interact to create interactive and immersive experiences.</b>
-  <br><br><br>
-  <b>🔧 Alongside my studies at School 42, I actively explore opportunities in game development and deepen my understanding of hardware and software. I'm always on the lookout for new technologies and methods to enhance my skills.</b>
-  <br><br><br>
-  <b>🚀 I'm excited to immerse myself in the world of IT, expand my knowledge and skills, and contribute to innovative projects. I aspire to play an active role in developing advanced software solutions and engaging in stimulating collaborations.</b>
-  <br><br><br>
-  <b>💬 Feel free to reach out to me for discussions on exciting collaborations, exchanging ideas about video games and IT, or simply sharing a common passion!</b>
-</p>
+### Piscine Experience
+| Week | Projects Completed | Main Learnings |
+|------|-------------------|----------------|
+| Week 1 | Shell00, Shell01 | Unix commands, Shell scripting |
+| Week 2 | C00, C01 | C basics, Pointers |
+| Week 3 | C02, C03, C04 | String manipulation, Memory |
+| Week 4 | C05, C06 | Recursion, Program arguments |
 
 <!--
   The following section provides a link to School 42.
@@ -169,5 +163,3 @@
  *                                                            *
  \************************************************************/
 -->
-
-
