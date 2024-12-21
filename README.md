@@ -73,7 +73,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### Common Core Progress
+<br>
+<p align="center">
+  <b>Common Core Progress</b>
+</p>
+<br>
+
 | Circle | Project | Status | Score | Time |
 |:------:|:--------|:------:|:-----:|:----:|
 | Circle 0 | [Libft](https://github.com/Xxzer042xX/libft) | ✅ | 125/100 | ~70h |
@@ -90,7 +95,13 @@
 </td>
 <td width="50%" valign="top">
 
-### Piscine Experience
+<br>
+<p align="center">
+  <b>Piscine Experience</b>
+</p>
+<br>
+
+
 | Module | Status | Score |
 |:------:|:------:|:-----:|
 | [Shell00](https://github.com/Xxzer042xX/shell00) | ✅ | 100% |
