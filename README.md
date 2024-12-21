@@ -8,9 +8,10 @@
 <p align="center">
   <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 38, after working as an automotive mechanic for over 15 years, I decided to pivot into the field of IT. I joined School 42 in Lausanne, Switzerland.</b>
 </p>
+<br>
 
 ## 📊 My Projects
-
+---
 <div align="center">
   <table style="width: 100%;">
     <tr>
