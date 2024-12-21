@@ -13,7 +13,7 @@
 <p align="center">
   <b>👋 Hi there! I'm Xx_Zer0_xX, passionate about video games, hardware, and software. At 38, after working as an automotive mechanic for over 15 years, I decided to pivot into the field of IT. I joined School 42 in Lausanne, Switzerland.</b>
 </p>
-<br>
+<br><br>
 
 <!--
 **************************************************
@@ -25,11 +25,10 @@
 **************************************************
 -->
 
-<div align="center">
-  
-## 📊 My Projects
+# 📊 My Projects
 ---
-<br>
+<br><br>
+<div align="center">
   <table style="width: 100%;">
     <tr>
       <td align="center" style="width: 25%;">
@@ -63,7 +62,7 @@
     </tr>
   </table>
 </div>
-<br>
+<br><br>
 
 <!--
 **************************************************
@@ -132,7 +131,7 @@
 </tr>
 </table>
 </div>
-
+<br>
 <!--
 **************************************************
   School 42 Promotion Section
@@ -141,9 +140,8 @@
 **************************************************
 -->
 
-<br><br>
-<h1 align="center">🎓 Join School 42 :</h1>
-<hr>
+# 🎓 Join School 42
+---
 <br>
 <p align="center">
   <b>Explore the innovative approach to education at School 42 and join a global community of passionate learners.</b><br><br>
@@ -151,8 +149,7 @@
   <br><br><br><br>
   <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
 </p>
-
-
+<br>
 <!--
 **************************************************
   Technical Skills Section
@@ -161,17 +158,15 @@
 **************************************************
 -->
 
-<br><br>
-<h1 align="center">📚 Learning Languages :</h1>
-<hr>
-<br><br>
+# 📚 Learning Languages
+---
+<br>
 <p align="center">
   <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"><img src="images/c.png" alt="C Programming Language Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fr.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="images/cpp.png" alt="C++ Programming Language Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fr.wikipedia.org/wiki/Bourne-Again_shell" target="_blank"><img src="images/bash.png" alt="Bash Shell Logo" width="80" height="80"></a>
 </p>
-
-
+<br>
 <!--
 **************************************************
   Tools and Technologies Section
@@ -180,10 +175,9 @@
 **************************************************
 -->
 
-<br><br>
-<h1 align="center">🛠️ Tools I'm Exploring :</h1>
-<hr>
-<br><br>
+# 🛠️ Tools I'm Exploring
+---
+<br>
 <p align="center">
   <a href="https://fr.wikipedia.org/wiki/Vim" target="_blank"><img src="images/vim.png" alt="Vim Editor Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fr.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img src="images/vscode.png" alt="Visual Studio Code Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -191,7 +185,7 @@
   <a href="https://fr.wikipedia.org/wiki/Interface_en_ligne_de_commande" target="_blank"><img src="images/terminal.png" alt="Terminal Logo" width="80" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fr.wikipedia.org/wiki/Unreal_Engine" target="_blank"><img src="images/unreal.png" alt="Unreal Engine Logo" width="80" height="80"></a>
 </p>
-
+<br>
 <!--
 **************************************************
   Professional Background Section
@@ -200,10 +194,9 @@
 **************************************************
 -->
 
-<br><br>
-<h1 align="center">📜 Experience and Education :</h1>
-<hr>
-<br><br>
+# 📜 Experience and Education
+---
+<br>
 <p align="center">
   <b>🎓 Education :</b><br>
   - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
@@ -214,7 +207,7 @@
   - Over 15 years of experience as an automotive mechanic<br>
   - Currently transitioning into the field of IT and preparing to join School 42 in Lausanne, Switzerland
 </p>
-
+<br>
 <!--
 **************************************************
   Contact Information Section
@@ -223,15 +216,21 @@
 **************************************************
 -->
 
-<br><br>
-<h1 align="center">📞 Contact Me :</h1>
-<hr>
-<br><br>
+# 📞 Contact Me
+---
+<br>
 <p align="center">
   <a href="mailto:eljok87@gmail.com">📧 Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/yourprofile">🐦 Twitter</a>
 </p>
+<br>
+<!--
+**************************************************
+  Footer Section - Contribution Invitation
+  Thank you for visiting my profile!
+**************************************************
+-->
 
 <!--
  /************************************************************\
@@ -246,3 +245,4 @@
  *                                                 o7         *
  *                                                            *
  \************************************************************/
+-->
