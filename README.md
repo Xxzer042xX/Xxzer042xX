@@ -226,16 +226,15 @@
   - Professional networks
 **************************************************
 -->
-
 # 📞 Contact Me
 ---
-<br>
-<p align="center">
-  <a href="mailto:eljok87@gmail.com">📧 Email</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourprofile/">🔗 LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/yourprofile">🐦 Twitter</a>
-</p>
-<br>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-eljok87%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:eljok87@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+
+</div>
 <!--
 **************************************************
   Footer Section - Contribution Invitation
