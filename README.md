@@ -112,8 +112,8 @@
 
 | Module | Status | Score |
 |:------:|:------:|:-----:|
-| [Shell00](https://github.com/Xxzer042xX/shell00) | ✅ | 100% |
-| [Shell01](https://github.com/Xxzer042xX/shell01) | ✅ | 85% |
+| [Shell00](https://github.com/Xxzer042xX/42-Piscine/tree/master/extra/shell/shell00) | ✅ | 100% |
+| [Shell01](https://github.com/Xxzer042xX/42-Piscine/tree/master/extra/shell/shell01) | ✅ | 85% |
 | [C00](https://github.com/Xxzer042xX/42-Piscine/tree/master/c00) | ✅ | 100% |
 | [C01](https://github.com/Xxzer042xX/42-Piscine/tree/master/c01) | ✅ | 100% |
 | [C02](https://github.com/Xxzer042xX/42-Piscine/tree/master/c02) | ✅ | 100% |
