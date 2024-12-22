@@ -226,8 +226,10 @@
   - Professional networks
 **************************************************
 -->
+
 # 📞 Contact Me
 ---
+<br>
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-eljok87%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:eljok87@gmail.com)
