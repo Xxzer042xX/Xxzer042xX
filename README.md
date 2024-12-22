@@ -41,7 +41,7 @@
       <td align="center" style="width: 25%;">
         🔒 <b>Cybersecurity</b>
         <ul>
-         <li><a href="https://pauljerimy.com/security-certification-roadmap/">42Security Certification</a></li>
+         <li><a href="https://pauljerimy.com/security-certification-roadmap/">Security Certification</a></li>
           <li><a href="#">Coming Soon</a></li>
         </ul>
       </td>
