@@ -208,7 +208,7 @@
 ---
 <br><br>
 <p align="center">
-  <b>🎓 Education :</b><br>
+  <b>🎓 Education :</b><br><br>
   - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
 </p>
 <br>
