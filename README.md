@@ -55,8 +55,8 @@
       <td align="center" style="width: 25%;">
         💻 <b>Software Development</b>
         <ul>
-          <li><a href="https://github.com/Xxzer042xX/Discord_Task_Master_Bot">Discord Task Master</a></li>
-          <li><a href="https://github.com/Xxzer042xX/C_calculatrice">Calculator_c</a></li>
+          <li><a href="#">Coming Soon</a></li>
+          <li><a href="#">Coming Soon</a></li>
         </ul>
       </td>
     </tr>
