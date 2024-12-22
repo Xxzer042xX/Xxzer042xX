@@ -206,16 +206,17 @@
 
 # 📜 Experience and Education
 ---
-<br>
+<br><br>
 <p align="center">
   <b>🎓 Education :</b><br>
   - Automotive Mechanic CFC (Certificat Fédéral de Capacité), Switzerland
 </p>
 <br>
 <p align="center">
-  <b>💼 Professional Experience:</b><br>
+  <b>💼 Professional Background & Current Studies:</b><br><br>
   - Over 15 years of experience as an automotive mechanic<br>
-  - Currently transitioning into the field of IT and preparing to join School 42 in Lausanne, Switzerland
+  - Currently a student at École 42 in Lausanne, Switzerland, pursuing a Bachelor's equivalent in Computer Science<br>
+  - Transitioning into the field of IT, combining practical experience with cutting-edge programming education
 </p>
 <br>
 <!--
