@@ -85,7 +85,7 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### [📚 Common Core Progress](https://github.com/Xxzer042xX/42-common-core/blob/main/README.md)
+### [📚 Common Core Progress](https://github.com/Xxzer042xX/42-Common-Core)
 
 <br>
 <img src="https://img.shields.io/badge/Grade-In%20Progress-blue?style=for-the-badge&logo=42&logoColor=white" />
@@ -110,7 +110,7 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-### [🌊 Piscine Experience](https://github.com/Xxzer042xX/42-piscine/blob/main/README.md)
+### [🌊 Piscine Experience](https://github.com/Xxzer042xX/42-Piscine)
 
 <br>
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=42&logoColor=white" />
