@@ -227,14 +227,13 @@
 **************************************************
 -->
 
-# 📞 Contact Me
 ---
-<br>
+
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-eljok87%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:eljok87@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+*Made with ❤️ from 42 Lausanne*
+
+<sub>*Part of my journey at École 42 - Exploring the depths of C programming*</sub>
 
 </div>
 <!--
