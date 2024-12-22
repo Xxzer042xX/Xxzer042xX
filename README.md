@@ -114,16 +114,16 @@
 |:------:|:------:|:-----:|
 | [Shell00](https://github.com/Xxzer042xX/shell00) | ✅ | 100% |
 | [Shell01](https://github.com/Xxzer042xX/shell01) | ✅ | 85% |
-| [C00](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
-| [C01](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
-| [C02](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
-| [C03](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
-| [C04](https://github.com/Xxzer042xX/C00) | ✅ | 50% |
-| [C05](https://github.com/Xxzer042xX/C00) | ✅ | 80% |
-| [C06](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
-| [C07](https://github.com/Xxzer042xX/C00) | ✅ | 60% |
-| [C08](https://github.com/Xxzer042xX/C00) | ✅ | 100% |
-| [Rush00](https://github.com/Xxzer042xX/C00) | ✅ | 116% |
+| [C00](https://github.com/Xxzer042xX/42-Piscine/tree/master/c00) | ✅ | 100% |
+| [C01](https://github.com/Xxzer042xX/42-Piscine/tree/master/c01) | ✅ | 100% |
+| [C02](https://github.com/Xxzer042xX/42-Piscine/tree/master/c02) | ✅ | 100% |
+| [C03](https://github.com/Xxzer042xX/42-Piscine/tree/master/c03) | ✅ | 100% |
+| [C04](https://github.com/Xxzer042xX/42-Piscine/tree/master/c04) | ✅ | 50% |
+| [C05](https://github.com/Xxzer042xX/42-Piscine/tree/master/c05) | ✅ | 80% |
+| [C06](https://github.com/Xxzer042xX/42-Piscine/tree/master/c06) | ✅ | 100% |
+| [C07](https://github.com/Xxzer042xX/42-Piscine/tree/master/c07) | ✅ | 60% |
+| [C08](https://github.com/Xxzer042xX/42-Piscine/tree/master/c08) | ✅ | 100% |
+| [Rush00](https://github.com/Xxzer042xX/42-Piscine/tree/master/extra/rush/rush00_24) | ✅ | 116% |
 | Exam0 | ✅ | 90% |
 | Exam01 | ✅ | 70% |
 | Exam02 | ✅ | 60% |
