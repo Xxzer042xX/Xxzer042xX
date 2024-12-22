@@ -85,7 +85,7 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### [📚 Common Core Progress](https://github.com/Xxzer042xX/42-Common-Core)
+### [📚 Common Core Progress](https://github.com/Xxzer042xX/42-Common-Core/blob/main/README.md)
 
 <br>
 <img src="https://img.shields.io/badge/Grade-In%20Progress-blue?style=for-the-badge&logo=42&logoColor=white" />
