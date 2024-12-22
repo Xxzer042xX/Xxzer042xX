@@ -96,13 +96,13 @@
 
 | Circle | Project | Status | Score | Time |
 |:------:|:--------|:------:|:-----:|:----:|
-| Circle 0 | [Libft](https://github.com/Xxzer042xX/libft) | ✅ | 125/100 | ~70h |
-| Circle 1 | [ft_printf](https://github.com/Xxzer042xX/ft_printf) | ✅ | 125/100 | ~70h |
-|| [get_next_line](https://github.com/Xxzer042xX/get_next_line) | ✅ | 110/100 | ~70h |
-|| [Born2beroot](https://github.com/Xxzer042xX/Born2beroot) | ✅ | 125/100 | ~40h |
+| Circle 0 | [Libft](https://github.com/Xxzer042xX/42-Common-Core/tree/main/libft) | ✅ | 125/100 | ~70h |
+| Circle 1 | [ft_printf](https://github.com/Xxzer042xX/404) | ✅ | 125/100 | ~70h |
+|| [get_next_line](https://github.com/Xxzer042xX/42-Common-Core/tree/main/get_next_line) | ✅ | 110/100 | ~70h |
+|| [Born2beroot](https://github.com/Xxzer042xX/404) | ✅ | 125/100 | ~40h |
 | Circle 2 | [FDF](https://github.com/Xxzer042xX/fdf) | ✅ | 125/100 | ~60h |
-|| [push_swap](https://github.com/Xxzer042xX/push_swap) | 🔄 | In Progress | ~60h |
-|| [pipex](https://github.com/Xxzer042xX/pipex) | 📝 | Planned | ~50h |
+|| [push_swap](https://github.com/Xxzer042xX/42-Common-Core/tree/main/push_swap) | 🔄 | In Progress | ~60h |
+|| [pipex](https://github.com/Xxzer042xX/404) | 📝 | Planned | ~50h |
 || Examen 02 | 📝 | Planned | ~4h |
 | Circle 3 | minishell | 🔒 | Forbidden | ~210h |
 || Philosopher | 🔒 | Forbidden | ~70h |
