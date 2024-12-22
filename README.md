@@ -79,15 +79,20 @@
   <img src="https://img.shields.io/badge/Lausanne-1E2024?style=for-the-badge&logo=42" />
 </div>
 <br><br>
+
 <div align="center">
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📚 Common Core Progress
+### [📚 Common Core Progress](https://github.com/Xxzer042xX/42-common-core/blob/main/README.md)
+
 <br>
 <img src="https://img.shields.io/badge/Grade-In%20Progress-blue?style=for-the-badge&logo=42&logoColor=white" />
 <br><br>
+
+
+
 
 | Circle | Project | Status | Score | Time |
 |:------:|:--------|:------:|:-----:|:----:|
@@ -105,10 +110,13 @@
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🌊 Piscine Experience
+### [🌊 Piscine Experience](https://github.com/Xxzer042xX/42-piscine/blob/main/README.md)
+
 <br>
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=42&logoColor=white" />
 <br><br>
+
+
 
 | Module | Status | Score |
 |:------:|:------:|:-----:|
