@@ -227,6 +227,13 @@
 **************************************************
 -->
 
+<!--
+**************************************************
+  Footer Section - Contribution Invitation
+  Thank you for visiting my profile!
+**************************************************
+-->
+
 ---
 
 <div align="center">
@@ -236,12 +243,6 @@
 <sub>*Part of my journey at École 42 - Exploring the depths of C programming*</sub>
 
 </div>
-<!--
-**************************************************
-  Footer Section - Contribution Invitation
-  Thank you for visiting my profile!
-**************************************************
--->
 
 <!--
  /************************************************************\
