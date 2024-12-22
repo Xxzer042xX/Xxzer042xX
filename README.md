@@ -122,7 +122,7 @@
 | [C05](https://github.com/Xxzer042xX/42-Piscine/tree/master/c05) | ✅ | 80% |
 | [C06](https://github.com/Xxzer042xX/42-Piscine/tree/master/c06) | ✅ | 100% |
 | [C07](https://github.com/Xxzer042xX/42-Piscine/tree/master/c07) | ✅ | 60% |
-| [C08](https://github.com/Xxzer042xX/42-Piscine/tree/master/c08) | ✅ | 100% |
+| [C08](https://github.com/Xxzer042xX/42-Piscine) | ✅ | 100% |
 | [Rush00](https://github.com/Xxzer042xX/42-Piscine/tree/master/extra/rush/rush00_24) | ✅ | 116% |
 | Exam0 | ✅ | 90% |
 | Exam01 | ✅ | 70% |
