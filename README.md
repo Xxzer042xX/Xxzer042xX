@@ -48,7 +48,7 @@
       <td align="center" style="width: 25%;">
         🏆 <b>Hackathons</b>
         <ul>
-          <li><a href="https://www.blackalps.ch/ba/">Black Alps 2024</a></li>
+          <li><a href="https://www.blackalps.ch/ba/">Black Alps 2025</a></li>
           <li><a href="#">Coming Soon</a></li>
         </ul>
       </td>
