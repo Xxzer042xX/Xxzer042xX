@@ -107,6 +107,11 @@
 | Circle 3 | minishell | 🔒 | Forbidden | ~210h |
 || Philosopher | 🔒 | Forbidden | ~70h |
 || Examen 03 | 🔒 | Forbidden | ~4h |
+| Circle 4 | miniRT | 🔒 | Forbidden | ~280h |
+|| cube3D | 🔒 | Forbidden | ~280h |
+|| NetPractic | 🔒 | Forbidden | ~50h |
+|| cpp modules 00 -> 04 | 🔒 | Forbidden | ~60h |
+|| Examen 04 | 🔒 | Forbidden | ~4h |
 
 </td>
 <td width="50%" align="center" valign="top">
