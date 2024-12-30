@@ -102,10 +102,11 @@
 || [Born2beroot](https://github.com/Xxzer042xX/404) | ✅ | 125/100 | ~40h |
 | Circle 2 | [fdf](https://github.com/Xxzer042xX/42-Common-Core/tree/main/fdf) | ✅ | 125/100 | ~60h |
 || [push_swap](https://github.com/Xxzer042xX/42-Common-Core/tree/main/push_swap) | 🔄 | In Progress | ~60h |
-|| pipex | 📝 | Planned | ~50h |
+|| pipex | 🔄 | In Progress | ~50h |
 || Examen 02 | ✅ | 100/100 | ~4h |
 | Circle 3 | minishell | 🔒 | Forbidden | ~210h |
 || Philosopher | 🔒 | Forbidden | ~70h |
+|| Examen 03 | 🔒 | Forbidden | ~4h |
 
 </td>
 <td width="50%" align="center" valign="top">
