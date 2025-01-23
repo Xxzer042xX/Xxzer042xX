@@ -104,7 +104,7 @@
 || [push_swap](https://github.com/Xxzer042xX/42-Common-Core/tree/main/push_swap) | ✅ | 90/100 | ~60h |
 || [pipex](https://github.com/Xxzer042xX/42-Common-Core/tree/main/pipex) | 🔄 | In Progress | ~50h |
 || Examen 02 | ✅ | 100/100 | ~4h |
-| Circle 3 | [minishell](https://github.com/Xxzer042xX/minishell/tree/madelmen) | 🔒 | Forbidden | ~210h |
+| Circle 3 | [minishell](https://github.com/Xxzer042xX/minishell/tree/madelmen) | 🔄 | In Progress | ~210h |
 || Philosopher | 🔒 | Forbidden | ~70h |
 || Examen 03 | 🔒 | Forbidden | ~4h |
 | Circle 4 | miniRT | 🔒 | Forbidden | ~280h |
